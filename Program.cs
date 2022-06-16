@@ -28,3 +28,4 @@ for (int i = 0; i < array.Length; i++)
 }
 Console.Write("[{0}]", string.Join(", ", array));
 Console.Write(" -> [{0}]", string.Join(", ", newarray));
+
